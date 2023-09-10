@@ -1,0 +1,6 @@
+/* dynamicCode:
+ * SHA1 = 1dce3efa200409c2726bddf876fedaaee7400ce8
+ */
+codeStreamTemplate.C
+
+LIB = $(PWD)/../platforms/$(WM_OPTIONS)/lib/libcodeStream_1dce3efa200409c2726bddf876fedaaee7400ce8

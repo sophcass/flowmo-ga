@@ -1,0 +1,61 @@
+{
+    "Level of mixing": {
+        "header": "Level of mixing",
+        "details": {
+            "0": {
+                "header": "Include list of fluid mixing goals here"
+            }
+        }
+    },
+    "Flow rate": {
+        "header": "Flow rate",
+        "details": {
+            "0": {
+                "header": "Inlet Velocity",
+                "unit": "m/s",
+                "value": 0
+            },
+            "1": {
+                "header": "Design Ratio",
+                "unit": "no unit",
+                "value": 0
+            },
+            "2": {
+                "header": "Outlet 1 Velocity",
+                "unit": "m/s",
+                "value": 0
+            },
+            "3": {
+                "header": "Outlet 2 Velocity",
+                "unit": "m/s",
+                "value": 0
+            },
+            "4": {
+                "header": "Max Velocity",
+                "unit": "m/s",
+                "value": 0
+            },
+            "5": {
+                "header": "Average Velocity",
+                "unit": "m/s",
+                "value": 0
+            }
+        }
+    },
+    "Size restrictions": {
+        "header": "Size restrictions",
+        "details": {
+            "0": {
+                "header": "Include list of size restriction goals here"
+            }
+        }
+    },
+    "Dynamic behaviour": {
+        "header": "Dynamic behaviour",
+        "details": {
+            "0": {
+                "header": "Include list of dynamic behaviour goals here"
+            }
+        }
+    }
+}
